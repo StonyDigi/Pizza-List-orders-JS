@@ -45,3 +45,24 @@ hr {
 img {
     width: 50%; /*Mindig az 50%-a legyen az eredei méretnek*/
 }
+
+button {
+  margin-top: 120px;
+  width: 150px;
+  font-size: 22px;
+  border-radius: 5px;
+  outline: none;
+  cursor: pointer;
+  box-shadow: 3px 4px 10px #000;
+  font-weight: bold;
+  border: none;
+  color: brown;
+}
+
+button:hover {
+  box-shadow: 10px 5px 30px #000;
+}
+
+.order:hover {
+  box-shadow: 28px 35px 36px 5px rgba(0,0,0,0.3);
+}
