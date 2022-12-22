@@ -6,7 +6,7 @@ const orders = [
         extra: "",
         ital: "Pepsi zero",
         ar: 2000,
-        kep: "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        kep: "https://images.pexels.com/photos/14000254/pexels-photo-14000254.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
 
     {
@@ -24,7 +24,7 @@ const orders = [
         extra: "Csípős Paprika",
         ital: "Ásványvíz",
         ar: 2500,
-        kep: "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        kep: "https://images.pexels.com/photos/825661/pexels-photo-825661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
 
     {
@@ -33,7 +33,7 @@ const orders = [
         extra: "Sajt",
         ital: "Nestea",
         ar: 1900,
-        kep: "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        kep: "https://images.pexels.com/photos/14000081/pexels-photo-14000081.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
 
     {
@@ -42,7 +42,7 @@ const orders = [
         extra: "Oliva",
         ital: "Fanta narancs",
         ar: 2450,
-        kep: "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        kep: "https://images.pexels.com/photos/2274787/pexels-photo-2274787.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
 
     {
@@ -51,7 +51,7 @@ const orders = [
         extra: "Csirke",
         ital: "Pepsi zero",
         ar: 2600,
-        kep: "https://images.pexels.com/photos/905847/pexels-photo-905847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        kep: "https://images.pexels.com/photos/365459/pexels-photo-365459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }
 
 ]
